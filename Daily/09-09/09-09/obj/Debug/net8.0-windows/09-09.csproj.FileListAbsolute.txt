@@ -1,0 +1,14 @@
+D:\.project\project_winform\09-09\09-09\bin\Debug\net8.0-windows\09-09.exe
+D:\.project\project_winform\09-09\09-09\bin\Debug\net8.0-windows\09-09.deps.json
+D:\.project\project_winform\09-09\09-09\bin\Debug\net8.0-windows\09-09.runtimeconfig.json
+D:\.project\project_winform\09-09\09-09\bin\Debug\net8.0-windows\09-09.dll
+D:\.project\project_winform\09-09\09-09\bin\Debug\net8.0-windows\09-09.pdb
+D:\.project\project_winform\09-09\09-09\obj\Debug\net8.0-windows\09-09.GeneratedMSBuildEditorConfig.editorconfig
+D:\.project\project_winform\09-09\09-09\obj\Debug\net8.0-windows\09-09.AssemblyInfoInputs.cache
+D:\.project\project_winform\09-09\09-09\obj\Debug\net8.0-windows\09-09.AssemblyInfo.cs
+D:\.project\project_winform\09-09\09-09\obj\Debug\net8.0-windows\09-09.csproj.CoreCompileInputs.cache
+D:\.project\project_winform\09-09\09-09\obj\Debug\net8.0-windows\09-09.dll
+D:\.project\project_winform\09-09\09-09\obj\Debug\net8.0-windows\refint\09-09.dll
+D:\.project\project_winform\09-09\09-09\obj\Debug\net8.0-windows\09-09.pdb
+D:\.project\project_winform\09-09\09-09\obj\Debug\net8.0-windows\09-09.genruntimeconfig.cache
+D:\.project\project_winform\09-09\09-09\obj\Debug\net8.0-windows\ref\09-09.dll
